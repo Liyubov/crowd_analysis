@@ -1,10 +1,10 @@
 # General crowd analysis
 
 This is repository to analyse citizen science data.
-The analysis started with iNaturalist data analysis we did for iNaturalist.
-Thanks to open data of other platforms such as iSpot here we also continue to analyse them. 
+The analysis started with iNaturalist data analysis we did for iNaturalist https://github.com/correlaid-paris/citizen_science_inaturalist
+Thanks to open data of other platforms such as iSpot here we also continue to analyse them https://datadryad.org/stash/dataset/doi:10.5061/dryad.r0005
 
-# reseach questions (RQs)
+# Reseach questions (RQs)
 
 RQ1: Can we identify macroscopic laws of citizen science projects? The main goal of the project to identify short-term and long-term dynamics in citizen science projects. (general RQ)
 
